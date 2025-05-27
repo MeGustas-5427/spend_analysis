@@ -14,4 +14,4 @@ __pycache__/
 .idea/
 
 # 排除 PDM 虚拟环境
-.pdm-python/
+.pdm-python

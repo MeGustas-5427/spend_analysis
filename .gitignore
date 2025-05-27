@@ -1,0 +1,17 @@
+# Python 虚拟环境
+.venv/
+__pycache__/
+*.pyc
+
+# 日志文件
+*.log
+
+# 环境变量文件
+.env
+
+# IDE 配置文件
+.vscode/
+.idea/
+
+# 排除 PDM 虚拟环境
+.pdm-python/
